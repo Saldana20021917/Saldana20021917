@@ -52,7 +52,7 @@ Mi propósito es utilizar el conocimiento y los datos para generar cambios posit
       </a>
     </td>
     <td align="center">
-      <a href="https://app.powerbi.com/view?r=eyJrIjoiYjcyYTY2ZjYtNDk3Zi00OWFkLTk1MDktMzM2ZGMzOGYwNTI4IiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9" target="_blank">
+      <a href="[https://app.powerbi.com/view?r=eyJrIjoiYjcyYTY2ZjYtNDk3Zi00OWFkLTk1MDktMzM2ZGMzOGYwNTI4IiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9](https://app.powerbi.com/view?r=eyJrIjoiMzQ4ZDA4NzctMTdhZC00OTVlLWE3NDgtNGM3NjA3NWQwYjE5IiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9&pageName=3f709222fc44c5696d09)" target="_blank">
         <img src="https://i.imgur.com/H9LUVZJ.png" alt="Dashboard Banco Mundial" width="400"/><br/>
         <strong>Indicadores Globales – Banco Mundial</strong>
       </a>
