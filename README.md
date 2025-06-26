@@ -28,8 +28,6 @@ Mi propósito es utilizar el conocimiento y los datos para generar cambios posit
 
 ## 🛠️ Herramientas y Tecnologías
 
-## 🛠️ Herramientas y Tecnologías
-
 [![My Skills](https://skillicons.dev/icons?i=python,r,html,css,js,latex,markdown,git,github,vscode,excel,powershell,mysql)](https://skillicons.dev)
 
 ---
