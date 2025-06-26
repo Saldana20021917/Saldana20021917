@@ -61,11 +61,12 @@ Mi propósito es utilizar el conocimiento y los datos para generar cambios posit
 </table>
 
 
-- **Web Scraping del Banco de la República**  
+- **[<img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub" height="20"/> Web Scraping del Banco de la República](https://github.com/Saldana20021917/Banco_de_la_Republica_Scraping)**  
   Extracción automatizada de series históricas como TRM, IPC, tasas de interés, entre otros, usando Python y Selenium.
 
-- **Consumo de API del Banco Mundial**  
+- **[<img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub" height="20"/> Consumo de API del Banco Mundial](https://github.com/Saldana20021917/Consumo_API_Banco_Mundial.github.io)**  
   Proyecto en Python para consultar y visualizar dinámicamente datos macroeconómicos globales desde el portal del Banco Mundial.
+
 
 - **Dashboard interactivo de indicadores territoriales**  
   Aplicación con filtros geográficos, variables socioeconómicas y visualización dinámica de resultados, diseñada para el análisis regional.
