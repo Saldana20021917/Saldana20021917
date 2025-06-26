@@ -48,7 +48,7 @@ Mi propósito es utilizar el conocimiento y los datos para generar cambios posit
     <td align="center">
       <a href="https://app.powerbi.com/view?r=eyJrIjoiNTc5NzM5NzAtZTczOS00ZDIzLTg0ZjAtNTUxNjU0NWYwOTljIiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9" target="_blank">
         <img src="https://i.imgur.com/H9kHyr3.png" alt="Dashboard Análisis Económico y Social" width="400"/><br/>
-        <strong>Informalidad, Pobreza y Salud en Santa Marta</strong>
+        <strong>Homicidios Intencionales (Colombia)</strong>
       </a>
     </td>
     <td align="center">
