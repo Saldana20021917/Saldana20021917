@@ -34,7 +34,7 @@ Mi propósito es utilizar el conocimiento y los datos para generar cambios posit
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/>
   </div>
   
-  <div style="background-color: rgba(255,255,255,0.7); padding: 8px; border-radius: 10px;">
+  <div style="background-color: white; padding: 8px; border-radius: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50"/>
   </div>
 
