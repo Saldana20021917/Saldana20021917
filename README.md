@@ -41,9 +41,10 @@ Mi propósito es utilizar el conocimiento y los datos para generar cambios posit
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ---
 ## 📁 Proyectos en los que he trabajado
-
-- **[Dashboards de análisis económico y social](https://app.powerbi.com/view?r=eyJrIjoiNTc5NzM5NzAtZTczOS00ZDIzLTg0ZjAtNTUxNjU0NWYwOTljIiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9)**  
-  Visualización interactiva de indicadores relacionados con informalidad, pobreza y condiciones sociales, construida con Power BI.
+[![Dashboard de Análisis Económico y Social](https://imgur.com/H9kHyr3)](https://app.powerbi.com/view?r=eyJrIjoiNTc5NzM5NzAtZTczOS00ZDIzLTg0ZjAtNTUxNjU0NWYwOTljIiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9)  
+**Dashboard de Análisis Económico y Social**  
+Visualización interactiva de indicadores relacionados con informalidad, pobreza y condiciones sociales, construida con Power BI.
+construida con Power BI.
 
 - **Web Scraping del Banco de la República**  
   Extracción automatizada de series históricas como TRM, IPC, tasas de interés, entre otros, usando Python y Selenium.
