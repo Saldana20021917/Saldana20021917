@@ -39,24 +39,21 @@ Mi propósito es utilizar el conocimiento y los datos para generar cambios posit
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
 ---
-
 ## 📁 Proyectos en los que he trabajado
 
-### 🔬 Investigación académica
+- **[Dashboards de análisis económico y social](https://app.powerbi.com/view?r=eyJrIjoiNTc5NzM5NzAtZTczOS00ZDIzLTg0ZjAtNTUxNjU0NWYwOTljIiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9)**  
+  Visualización interactiva de indicadores relacionados con informalidad, pobreza y condiciones sociales, construida con Power BI.
 
-- **Economía Informal en Santa Marta**  
-  Análisis cualitativo y cuantitativo de entrevistas sobre informalidad laboral, con enfoque en pasivos de pobreza.
+- **Web Scraping del Banco de la República**  
+  Extracción automatizada de series históricas como TRM, IPC, tasas de interés, entre otros, usando Python y Selenium.
 
-- **Modistas del CAMBI (Magdalena)**  
-  Seguimiento a más de 900 unidades productivas, con procesos de capacitación, diagnóstico y evaluación de sostenibilidad empresarial.
+- **Consumo de API del Banco Mundial**  
+  Proyecto en Python para consultar y visualizar dinámicamente datos macroeconómicos globales desde el portal del Banco Mundial.
 
-- **Acceso a la atención médica en poblaciones vulnerables**  
-  Estudio mixto de barreras estructurales, financieras y culturales en la ciudad de Santa Marta.
-
+- **Dashboard interactivo de indicadores territoriales**  
+  Aplicación con filtros geográficos, variables socioeconómicas y visualización dinámica de resultados, diseñada para el análisis regional.
 ---
-
 ## 🎓 Formación académica
 
 - **Universidad del Magdalena**  
