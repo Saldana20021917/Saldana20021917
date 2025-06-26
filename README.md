@@ -40,8 +40,8 @@ Mi propósito es utilizar el conocimiento y los datos para generar cambios posit
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ---
-## 📁 Proyectos en los que he trabajado
-## 📊 Dashboards desarrollados
+## 📁 Algunos proyectos en los que he trabajado
+### 📊 Dashboards desarrollados
 
 <table>
   <tr>
@@ -92,14 +92,11 @@ Mi propósito es utilizar el conocimiento y los datos para generar cambios posit
 - 📧 Email: [saldanajesusdavid@gmail.com](mailto:saldanajesusdavid@gmail.com)  
 - 📱 WhatsApp: [+57 3150267555](https://wa.me/573150267555)  
 - **💼 LinkedIn:** [Jesús Saldaña](https://www.linkedin.com/in/jesus-david-saldaña-arroyo-41b43718a)  
-- 🌐 Portafolio: *(Si tienes uno, también lo enlazamos)*
+- 🌐 Portafolio:
 
 ---
 
-## 🧭 Fun fact
-
 > “La economía no es solo números. Es gente, vidas y decisiones que cambian realidades.”  
-> — Jesús Saldaña
 
 ---
 
