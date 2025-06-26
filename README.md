@@ -69,8 +69,8 @@ Mi propósito es utilizar el conocimiento y los datos para generar cambios posit
 ## 📫 Contáctame
 
 - 📧 Email: [saldanajesusdavid@gmail.com](mailto:saldanajesusdavid@gmail.com)  
-- 📱 WhatsApp: [+57 3022974300](https://wa.me/573022974300)  
-- 💼 LinkedIn: *(Puedes compartirlo y lo incluyo aquí)*  
+- 📱 WhatsApp: [+57 3150267555](https://wa.me/573150267555)  
+- **💼 LinkedIn:** [Jesús Saldaña](https://www.linkedin.com/in/jesus-david-saldaña-arroyo-41b43718a)  
 - 🌐 Portafolio: *(Si tienes uno, también lo enlazamos)*
 
 ---
