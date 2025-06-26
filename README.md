@@ -41,10 +41,25 @@ Mi propósito es utilizar el conocimiento y los datos para generar cambios posit
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ---
 ## 📁 Proyectos en los que he trabajado
-[![Dashboard de Análisis Económico y Social](https://imgur.com/H9kHyr3.png)](https://app.powerbi.com/view?r=eyJrIjoiNTc5NzM5NzAtZTczOS00ZDIzLTg0ZjAtNTUxNjU0NWYwOTljIiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9)  
-**Dashboard de Análisis Económico y Social**  
-Visualización interactiva de indicadores relacionados con informalidad, pobreza y condiciones sociales, construida con Power BI.
-construida con Power BI.
+## 📊 Dashboards desarrollados
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://app.powerbi.com/view?r=eyJrIjoiNTc5NzM5NzAtZTczOS00ZDIzLTg0ZjAtNTUxNjU0NWYwOTljIiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9" target="_blank">
+        <img src="https://i.imgur.com/H9kHyr3.png" alt="Dashboard Análisis Económico y Social" width="400"/><br/>
+        <strong>Informalidad, Pobreza y Salud en Santa Marta</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://app.powerbi.com/view?r=eyJrIjoiYjcyYTY2ZjYtNDk3Zi00OWFkLTk1MDktMzM2ZGMzOGYwNTI4IiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9" target="_blank">
+        <img src="https://i.imgur.com/H9LUVZJ.png" alt="Dashboard Banco Mundial" width="400"/><br/>
+        <strong>Indicadores Globales – Banco Mundial</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 - **Web Scraping del Banco de la República**  
   Extracción automatizada de series históricas como TRM, IPC, tasas de interés, entre otros, usando Python y Selenium.
