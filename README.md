@@ -3,7 +3,7 @@
 <h1 align="center">👋 ¡Hola! Soy Jesús Saldaña</h1>
 
 <p align="center">
-  📊 Economista | 👨‍🏫 Docente y Tutor | 💻 Analista de Datos <br>
+  📊 Economista | 👨‍🏫 Tutorias | 💻 Analista de Datos <br>
   💡 Apasionado por la investigación social, el desarrollo sostenible y la tecnología
 </p>
 
