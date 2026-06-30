@@ -12,9 +12,9 @@
 ## 🧠 Sobre mí
 
 Soy estudiante de **Economía** en la Universidad del Magdalena, con un fuerte interés en el análisis de datos, la economía del desarrollo, la informalidad laboral y el acceso equitativo a la atención médica.  
-Actualmente participo en proyectos de investigación relacionados con la **economía informal en Santa Marta** y el **seguimiento a unidades productivas (Modistas del CAMBI)**, combinando metodologías cuantitativas y cualitativas.
+Actualmente participo en proyectos de investigación relacionados con la **economía informal en Santa Marta** y el **seguimiento a unidades productivas (Modistas del cambio)**, combinando metodologías cuantitativas y cualitativas.
 
-También soy **docente y tutor particular** en áreas como:
+También soy **Tutor particular** en áreas como:
 - Matemáticas
 - Estadística
 - Economía
