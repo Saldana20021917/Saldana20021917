@@ -73,7 +73,7 @@ Mi propósito es utilizar el conocimiento y los datos para generar cambios posit
 
 - **Universidad del Magdalena**  
   *Pregrado en Economía*  
-  📅 2021 - presente  
+  📅 2021 - 2026  
   📌 Santa Marta, Colombia
 
 ---
